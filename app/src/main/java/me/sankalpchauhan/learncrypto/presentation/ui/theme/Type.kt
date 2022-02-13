@@ -1,4 +1,4 @@
-package me.sankalpchauhan.learncrypto.ui.theme
+package me.sankalpchauhan.learncrypto.presentation.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
